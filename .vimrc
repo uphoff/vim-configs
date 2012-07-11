@@ -17,3 +17,4 @@ autocmd FileType css set omnifunc=csscomplete#CompleteCSS
 :map <F4> :tabn<CR>
 :map <F5> :tabnew<CR>
 :map <F9> :Explore<CR>
+:map :django :setfiletype htmldjango
